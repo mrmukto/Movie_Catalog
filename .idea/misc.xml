@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Bitbirds/job/Final/Movie Catalog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2195" />
+        <entry key="..\:/Bitbirds/job/Final/Movie Catalog/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2195" />
         <entry key="..\:/Bitbirds/job/Final/Movie Catalog/app/src/main/res/layout/activity_movie_details.xml" value="0.37135416666666665" />
+        <entry key="..\:/Bitbirds/job/Final/Movie Catalog/app/src/main/res/layout/item_movie.xml" value="0.37135416666666665" />
         <entry key="..\:/Bitbirds/job/Final/MyApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.105" />
         <entry key="..\:/Bitbirds/job/Final/MyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.105" />
         <entry key="..\:/Bitbirds/job/Final/MyApp/app/src/main/res/drawable/ic_search.xml" value="0.1575" />
