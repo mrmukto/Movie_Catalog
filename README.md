@@ -1,6 +1,6 @@
 # Movie catalog
 
-An Movies App Using TMDb API
+A Movies App Using TMDb API
 
 ## Project Specifications
 The Movie Database (TMDb) is a community built movie and TV database. Their database contains a lot of movies, tv shows, artists
